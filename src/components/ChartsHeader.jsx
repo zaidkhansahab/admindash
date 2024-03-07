@@ -9,5 +9,4 @@ const ChartsHeader = ({ category, title }) => (
     <p className="text-center dark:text-gray-200 text-xl mb-2 mt-3">{title}</p>
   </div>
 );
-
 export default ChartsHeader;
