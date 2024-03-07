@@ -1,3 +1,4 @@
+/* eslint-disable import/no-cycle */
 import React, { useEffect } from 'react';
 import { AiOutlineMenu } from 'react-icons/ai';
 import { FiShoppingCart } from 'react-icons/fi';
